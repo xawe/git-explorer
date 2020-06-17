@@ -1,11 +1,19 @@
 Criar Projeto:
 git init
 git status -> status
-
+git clone 'URL'
 
 git add - colocar os arquivos para fazer upload
 git commit 'descricao' -> nomeia o pacote das alteracoes
 git push -> envia para o repositorio
 
 
+git branch -> visualizar as branchs do Projeto
+git checkout 'nomebranch' -> mudar a branch
+git checkout -b 'nomenovabranch'
+
+padrao das branchs
+-> main
+-> develop
+-> release
 
