@@ -1,6 +1,11 @@
 Criar Projeto:
 git init
-
 git status -> status
+
+
+git add - colocar os arquivos para fazer upload
+git commit 'descricao' -> nomeia o pacote das alteracoes
+git push -> envia para o repositorio
+
 
 
